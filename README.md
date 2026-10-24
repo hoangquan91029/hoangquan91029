@@ -1,66 +1,110 @@
-# Hi, I'm Quan.
+<div align="center">
 
-I build software systems and learn by going below the abstraction layer.
+# QUAN HOANG KIEU
 
-I'm an Information Technology student at **International University, VNU-HCM**, with a growing focus on **software engineering, systems, AI/ML, and security**. I enjoy projects where product decisions and technical details meet: browser internals, real-time systems, failure recovery, low-level computing, deployment, and tooling.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=650&color=39FF14&center=true&vCenter=true&width=760&lines=%24+whoami;%3E+software+engineering+%2F+systems+%2F+ai+%2F+security;%3E+understand+the+mechanism%2C+not+only+the+API;%3E+build.+verify.+ship." alt="terminal typing" />
 
-I care about software that is understandable, testable, and reliable — not just software that works on the happy path.
+</div>
 
-## Selected work
+```text
+quan@github:~$ ./profile --status
 
-### [Rạch Đôi Sơn Hà](https://github.com/hoangquan91029/Rach_Doi_Son_Ha)
+name      : Quan Hoang Kieu
+role      : Information Technology student @ International University, VNU-HCM
+focus     : software engineering / systems / AI-ML / security
+platform  : Linux
+mode      : learning by building
+status    : online
+```
 
-A browser-based real-time strategy game built around historical leadership, terrain, and physical food logistics.
+I build software and like going below the abstraction layer: browser internals, real-time systems, low-level computing, failure recovery, deployment, and practical AI tooling.
 
-- Real-time single-player and online 1v1 gameplay
-- Node.js + WebSocket multiplayer architecture
-- Vite-based frontend and production build pipeline
-- Docker-ready server deployment
-- Explicit verification, benchmarking, and development audits
-
-`JavaScript` · `Node.js` · `WebSocket` · `Vite` · `Docker`
-
----
-
-### [Edusoft Course Registration](https://github.com/hoangquan91029/Edusoft-Course-Registration)
-
-A Manifest V3 browser extension for planning and submitting IU course registrations through a dedicated dashboard.
-
-- Direct portal communication through observed AjaxPro endpoints
-- Explicit review before state-changing operations
-- Persistent operation journal and recovery states for uncertain results
-- Bounded read retries and sequential write pacing
-- Automated unit and browser-fixture testing
-
-`JavaScript` · `Chrome Extension` · `Manifest V3` · `Browser APIs` · `Testing`
-
-## What I'm working on
-
-- **Software engineering** — architecture, testing, debugging, maintainability
-- **Systems** — computer architecture, MIPS, Linux, networking
-- **AI / ML** — PyTorch, model training, practical AI systems
-- **Web engineering** — JavaScript, browser extensions, Node.js, real-time applications
-- **Security** — secure design, failure modes, threat-aware engineering
-
-## Tools I use
-
-**Languages**  
-JavaScript / Python / C / C++ / SQL
-
-**Frameworks & platforms**  
-PyTorch / Node.js / Chrome Extension APIs
-
-**Engineering**  
-Linux / Git / GitHub / Docker / VS Code
-
-## Engineering principles
-
-- Understand the mechanism, not only the API.
-- Make failure states explicit.
-- Prefer simple systems that can be inspected and tested.
-- Verify assumptions with evidence.
-- Ship, measure, refine.
+I care about systems that remain understandable when something goes wrong — not only when the happy path works.
 
 ---
 
-<sub>Based in Vietnam · Interested in software engineering, systems, AI, and cybersecurity.</sub>
+## `~/pinned-projects`
+
+<!--
+EASY PIN CONFIG
+
+To replace a pinned project:
+1. Change the repository name in href="https://github.com/hoangquan91029/REPO_NAME"
+2. Change the same repository name after &repo=REPO_NAME
+
+That is all. No project description needs to be rewritten.
+-->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<!-- PIN_SLOT_1: replace Rach_Doi_Son_Ha in the TWO places below -->
+<a href="https://github.com/hoangquan91029/Rach_Doi_Son_Ha">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangquan91029&repo=Rach_Doi_Son_Ha&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=00E5FF&border_color=30363D&show_owner=false" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<!-- PIN_SLOT_2: replace Edusoft-Course-Registration in the TWO places below -->
+<a href="https://github.com/hoangquan91029/Edusoft-Course-Registration">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangquan91029&repo=Edusoft-Course-Registration&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=00E5FF&border_color=30363D&show_owner=false" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<sub>`tip:` edit only the two `PIN_SLOT` blocks above whenever you want to swap featured repositories.</sub>
+
+---
+
+## `~/stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp,pytorch,nodejs,html,css,docker,linux,git,github,vscode&perline=13&theme=dark" alt="tech stack" />
+
+</div>
+
+```text
+languages   -> JavaScript / Python / C / C++ / SQL
+web         -> Node.js / browser extensions / real-time applications
+ai_ml       -> PyTorch / model training / practical AI systems
+systems     -> computer architecture / MIPS / Linux / networking
+engineering -> Git / GitHub / Docker / testing / debugging
+security    -> secure design / failure modes / threat-aware engineering
+```
+
+---
+
+## `~/engineering-principles`
+
+```text
+[01] understand the mechanism, not only the API
+[02] make failure states explicit
+[03] prefer systems that can be inspected and tested
+[04] verify assumptions with evidence
+[05] ship -> measure -> refine
+```
+
+---
+
+## `~/signal`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangquan91029&show_icons=true&hide_title=true&hide_border=false&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=00E5FF&border_color=30363D&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangquan91029&layout=compact&hide_border=false&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_color=30363D&langs_count=6" alt="Top languages" />
+
+</div>
+
+---
+
+```text
+quan@github:~$ echo $NEXT
+build something worth understanding.
+```
+
+<sub>Vietnam · Software Engineering · Systems · AI/ML · Cybersecurity</sub>
